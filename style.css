@@ -1,0 +1,51 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+   background-image: url(../img/jpg.jpg);
+    background-size: cover;
+    height: 100%c;
+    padding-top: 100px;
+    color: white;
+    padding-bottom: 50px;
+}
+
+
+.about p {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.align-centre {
+    margin:auto;
+    width: 700px;
+}
+
+section {
+    padding:75px;
+}
+
+.col-sm-3 {
+    margin:auto;
+}
+
+.col-sm-12 {
+    padding-top: 20px;
+}
+
+.footer {
+    text-align: center;
+
+}
+
+.dark-mode {
+    background-color: rgb(25, 215, 248);
+    color: white;
+  }
